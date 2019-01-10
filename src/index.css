@@ -1,0 +1,45 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
+body {
+		font-family: "Roboto Slab", sans-serif;
+ 		font-weight: 300;
+  		font-size: 1em;
+        color: black;
+    }
+    h1, h2, h3, h4, h5, h6 {
+		font-family: "Open Sans", sans-serif;
+		font-weight: 100;
+		margin: 0;
+	}
+	table, th, td {
+	width: 50%;
+	text-align: left;
+	margin-left: 25%;
+    border: 1px solid black;
+}
+
+.filterForm p {
+	display:inline;
+	margin: 1em;
+	padding: 1em;
+}
+.filterForm {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.tab-demo {
+	margin-top:2em;
+	width: 50%;
+	color:black;
+}
+
+.tab {
+	margin-top: 2em;
+	color:black;
+	font-size: 1.2em;
+}
+
+.preloader{
+	vertical-align: center;
+	margin-top:20em
+}
